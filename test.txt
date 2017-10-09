@@ -1,0 +1,4 @@
+added new line
+This is my git test
+abc abd
+def def
